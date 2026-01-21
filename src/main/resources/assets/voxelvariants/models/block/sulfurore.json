@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "voxelvariants:block/sulfur-ore",
+    "up": "voxelvariants:block/sulfur-ore",
+    "north": "voxelvariants:block/sulfur-ore",
+    "east": "voxelvariants:block/sulfur-ore",
+    "south": "voxelvariants:block/sulfur-ore",
+    "west": "voxelvariants:block/sulfur-ore",
+    "particle": "voxelvariants:block/sulfur-ore"
+  },
+  "render_type": "solid"
+}
