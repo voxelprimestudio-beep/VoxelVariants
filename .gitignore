@@ -1,0 +1,7 @@
+.gradle/
+build/
+run/
+*.mcreator
+*.lock
+.idea/
+.vscode/
