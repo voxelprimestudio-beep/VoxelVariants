@@ -3,12 +3,12 @@ loaderVersion="[47,)"
 license="Not specified"
 
 [[mods]]
-modId="voxelvariants"
+modId="voxelium"
 version="1.0.0"
-displayName="VoxelVariants"
-displayURL="https://mcreator.net"
+displayName="Voxelium"
+displayURL=""
 credits="Created using mod maker MCreator - https://mcreator.net/about"
-authors="MCreator"
+authors="AnhdVoxel74"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration
@@ -24,4 +24,5 @@ authors="MCreator"
 
 
 # Start of user code block dependencies configuration
+
 # End of user code block dependencies configuration
