@@ -1,4 +1,4 @@
-# VoxelVariants
+# Voxelium
 
 VoxelVariants is a Minecraft Forge mod that expands survival gameplay
 with new materials, recipes, and utility features.
