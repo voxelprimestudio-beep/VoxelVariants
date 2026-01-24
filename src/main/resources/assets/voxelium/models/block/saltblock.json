@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "voxelvariants:block/salt-block",
+    "up": "voxelvariants:block/salt-block",
+    "north": "voxelvariants:block/salt-block",
+    "east": "voxelvariants:block/salt-block",
+    "south": "voxelvariants:block/salt-block",
+    "west": "voxelvariants:block/salt-block",
+    "particle": "voxelvariants:block/salt-block"
+  },
+  "render_type": "solid"
+}
